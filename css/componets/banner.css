@@ -1,0 +1,16 @@
+.banner {
+	background-image: url("../../image/sanaa.jpg");
+	background-size: cover;
+	background-position: center;
+	padding: 50px; 
+}
+
+.banner p{
+	font-size: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.banner h1 {
+	
+}
